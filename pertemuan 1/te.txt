@@ -1,0 +1,21 @@
+P(A) = 10% = 0,1 liver
+P(B) = 5% = 0,5 alhocol
+P(B|A) = 7% = 0,7
+P(A|B)?
+= P(B|A)*P(A)/P(B)
+= 0,7 * 0,1 / 0,7
+= 1,4 atau 14%
+
+ani, gatal (alergi kucing) ketika alergi tidak selalu ositif 100%
+nilai positif 80%(alergi), bagi yg tidak alergi ada kemungkinan 10&.
+1% rw, ani positif
+
+P(Alergi-) = 99% P(a-) 0,99
+P(alergi) = 1% p(a) 0,01 
+P(positif|alergi) = 80% p(b|a) 0,8
+P(positif|alergi-) 10% p(b|a-) 0,1
+
+P(A) = 80%
+P(B) = 10%
+P(B|A) = 10%
+

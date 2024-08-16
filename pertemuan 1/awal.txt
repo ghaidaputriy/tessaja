@@ -1,0 +1,15 @@
+CSS
+- dekorasi
+	-resposive web design =  menyesuaikan lebar dan ukuran layar sesuai dengan device yang kita buka
+	- styling
+
+HTML (strutur, head dan body)
+frontend(apa yang bisa kita lihat di web)
+backend
+- php (desain yg lebih dinamis contoh history yt,menyambungkan ke php, crud(create, read,
+- database
+
+cara pembuatan kode css : inline, enternal, external
+cara pembuatan yang inline lagsng di dalam tag
+cara pembuatan yang internal dan external :
+1. definisikan nama class maupun
